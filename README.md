@@ -4,7 +4,16 @@ Um simulador de jogo Super Trunfo desenvolvido em linguagem C. O programa permit
 
 
 
-<br><br><br>
+<br><br>
+
+
+
+
+
+
+
+
+<p>🚀 FuncionalidadesCadastro Dinâmico: O usuário pode definir o nome do estado e da cidade para cada uma das duas cartas.Geração Aleatória de Dados: Os atributos básicos (População, Área, PIB e Pontos Turísticos) são gerados aleatoriamente usando a função rand()<p>
 
 
 
@@ -14,18 +23,8 @@ Um simulador de jogo Super Trunfo desenvolvido em linguagem C. O programa permit
 
 
 
-🚀 FuncionalidadesCadastro Dinâmico: O usuário pode definir o nome do estado e da cidade para cada uma das duas cartas.Geração Aleatória de Dados: Os atributos básicos (População, Área, PIB e Pontos Turísticos) são gerados aleatoriamente usando a função rand()
 
-
-
-
-
-
-
-
-
-
-<br><br><br>
+<br>
 
 
 
@@ -48,7 +47,7 @@ Um simulador de jogo Super Trunfo desenvolvido em linguagem C. O programa permit
 <br><br><br>
 
 
-<h1>🛠️ Tecnologias Utilizadas</h1>
+<h2>🛠️ Tecnologias Utilizadas</h2>
 <br><br>
 -Linguagem C
 <br><br>
@@ -62,7 +61,7 @@ Um simulador de jogo Super Trunfo desenvolvido em linguagem C. O programa permit
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -87,7 +86,7 @@ Um simulador de jogo Super Trunfo desenvolvido em linguagem C. O programa permit
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -96,7 +95,7 @@ Um simulador de jogo Super Trunfo desenvolvido em linguagem C. O programa permit
 
 
 
-<h1> 💻 Exemplo de Execução </h1>
+<h2> 💻 Exemplo de Execução </h2>
 <br><br>
 
 ```
@@ -123,7 +122,7 @@ Escolha o nome da sua Cidade: Maceió
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -153,14 +152,14 @@ Bash
 
 
 
-<br><br><br>
+<br><br>
 
 
 
 
 
 
-<h1>🧠 Conceitos de Programação Aplicados</h1>
+<h2>🧠 Conceitos de Programação Aplicados</h2>
 Este projeto demonstra o uso de:
 <br><br>
 Estruturas de Repetição: while para manter o jogo rodando e menus persistentes.
