@@ -98,27 +98,24 @@ Um simulador de jogo Super Trunfo desenvolvido em linguagem C. O programa permit
 
 <h1> 💻 Exemplo de Execução </h1>
 <br><br>
+
+```
 _______-------Vamos jogar Super Trunfo!-------_______ 
 
 
 Selecione o Jogador
 
 A. Jogador 1
-
 B. Jogador 2
-
 C. Comparação de cartas
-
 D. Sair
-
 Opção escolhida: A
-<br><br>
-*Jogador 1 Escolhido... 
+
+*Jogador 1 Escolhido...
 
 Escolha o nome do seu Estado: Alagoas
-
 Escolha o nome da sua Cidade: Maceió
-
+```
 
 
 
@@ -142,15 +139,17 @@ Abra o terminal na pasta do arquivo.
 <br><br>
 Compile o código:
 <br><br>
-
+```
 Bash
 gcc super-trunfo.c -o supertrunfo
+```
 <br><br>
 Execute o programa:
 <br><br>
+```
 Bash
 ./supertrunfo
-
+```
 
 
 
