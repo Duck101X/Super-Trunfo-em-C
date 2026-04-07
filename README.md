@@ -34,7 +34,7 @@ Um simulador de jogo Super Trunfo desenvolvido em linguagem C. O programa permit
 
 
 <h1> Cálculo de Atributos Derivados: </h1>
-<br><br>
+
 -Densidade Populacional: $\frac{\text{População}}{\text{Área}}$
 <br><br>
 -PIB per Capita: $\frac{\text{PIB}}{\text{População}}$
